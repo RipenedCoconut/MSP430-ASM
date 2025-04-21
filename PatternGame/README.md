@@ -7,3 +7,6 @@ This project contains a simple program that operates as a pseudo "Simon" style g
 ## Usage
  
  To use this program, download the latest release zip file. Open CCStudio 12 and import the PatternGame.zip file to your workspace. You can then flash or debug the main.asm file.
+ 
+-----------------------
+**Note:** When viewing .asm files in this repo, I suggest switching tab indent size to 4. This is the eclipse default and will make the code aligned and readable.
