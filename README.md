@@ -2,8 +2,11 @@
 Texas Instruments MSP430 Assembly Experiments
 
 The projects contained within the root of this repo are some experiements I've performed with the Texas Instruments MSP430 microcontroller written in TI assembly. I use two different TI Launchpads with the MSP430FR6989 chip and the MSP430FR4133 chip. The FR6989 has 128KB of FRAM and is the target of most of these projects unless otherwise stated (the MSP430FR4133 only has 16KB of FRAM).
+
+## Usage
+ To use these programs, download the latest release zip file. Open CCStudio 12 and import the _"project".zip_ file to your workspace as a CCS Project. You can then flash or debug the main.asm file.
  
---------------------------
+## Projects
 
 **Blinky**
 
