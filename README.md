@@ -16,4 +16,5 @@ The Blinky program uses hardware interrupts and buttons exposed on the MSP430's 
 
 A simple program that operates as a pseudo "Simon" style game. After displayling a light, the user must click the corresponding button to score a point. If the user presses incorrectly, the game resets.
 
+-----------------------
 **Note:** When viewing .asm files in this repo, I suggest switching tab indent size to 4. This is the eclipse default and will make the coade aligned and readable.
