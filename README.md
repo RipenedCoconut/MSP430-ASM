@@ -8,12 +8,10 @@ The projects contained within the root of this repo are some experiements I've p
  
 ## Projects
 
-**Blinky**
+### Blinky
 
 The Blinky program uses hardware interrupts and buttons exposed on the MSP430's _port 1_. These buttons trigger LED lights on _port 1_ (red LED on TI launchpad) and _port 9_ (green LED on TI launchpad).
 
---------------------------
-
-**PatternGame**
+### PatternGame
 
 A simple program that operates as a pseudo "Simon" style game. After displayling a light, the user must click the corresponding button to score a point. If the user presses incorrectly, the game resets.
